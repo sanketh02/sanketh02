@@ -1,5 +1,19 @@
 ## Hi there 👋
+# I'm Sanket
 
+🎯 Data Analyst | Mechanical Engineer  
+📍 Nagpur, India  
+
+## 🚀 About Me
+- 🔍 Passionate about Data Analysis & Machine Learning  
+- 📊 Skilled in SQL, Python, Power BI 
+- 🛠️ Background in Mechanical Engineering  
+
+## 💼 Skills
+- Python | SQL | Power BI | Excel  
+- Machine Learning Basics
+- Deep Learning
+- Data Visualization  
 <!--
 **sanketh02/sanketh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

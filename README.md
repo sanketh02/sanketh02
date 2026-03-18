@@ -1,12 +1,12 @@
 ## Hi there 👋
 # I'm Sanket
 
-🎯 Data Analyst | Mechanical Engineer  
+🎯 Data Scientist | Data Analyst  
 📍 Nagpur, India  
 
 ## 🚀 About Me
 - 🔍 Passionate about Data Analysis & Machine Learning  
-- 📊 Skilled in SQL, Python, Power BI 
+- 📊 Skilled in SQL, Python, Power BI ,Machine Learning, Deep Learning
 - 🛠️ Background in Mechanical Engineering  
 
 ## 💼 Skills

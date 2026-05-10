@@ -46,9 +46,9 @@ I am a Mechanical Engineering graduate with a strong interest in Data Science, M
 - SolidWorks
 
 ## 📌 Projects
-- Customer Churn Prediction using Random Forest & XGBoost
-- Pizza Sales Analysis using SQL & Python
-- Radar Absorbing Material Analysis
+- Telecom Customer Churn Prediction Model
+- Face Recognition System
+- Pneumonia Detection Model
 - Formula Racing Chassis Design Project
 
 ## 📫 Contact Me

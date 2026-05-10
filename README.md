@@ -1,19 +1,68 @@
-## Hi there 👋
-# I'm Sanket
-
-🎯 Data Scientist | Data Analyst  
-📍 Nagpur, India  
+# Hi there 👋, I'm Sanket Maraskolhe
 
 ## 🚀 About Me
-- 🔍 Passionate about Data Analysis & Machine Learning  
-- 📊 Skilled in SQL, Python, Power BI ,Machine Learning, Deep Learning
-- 🛠️ Background in Mechanical Engineering  
+I am a Mechanical Engineering graduate with a strong interest in Data Science, Machine Learning, and AI-driven solutions. I enjoy solving real-world problems using data, analytics, and software development.I have experience working on machine learning projects, SQL-based data analysis, dashboard development, and engineering design projects. Currently, I am focused on improving my skills in Data Science, Deep Learning, and Generative AI.
 
-## 💼 Skills
-- Python | SQL | Power BI | Excel  
-- Machine Learning Basics
+---
+
+## 💼 What I Do
+- Build Machine Learning and Data Science projects
+- Perform Data Analysis using Python & SQL
+- Create dashboards and business insights
+- Work on AI/ML model development
+- Explore Generative AI and LLM applications
+- Develop engineering and analytical solutions
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming & Data
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+### Machine Learning & AI
+- Machine Learning
+- Deep Learning Basics
+- Data Preprocessing
+- Model Evaluation
+- Feature Engineering
+
+### Databases & Tools
+- MySQL
+- Power BI
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+
+### Engineering Tools
+- MATLAB
+- ANSYS
+- CREO
+- SolidWorks
+
+## 📌 Projects
+- Customer Churn Prediction using Random Forest & XGBoost
+- Pizza Sales Analysis using SQL & Python
+- Radar Absorbing Material Analysis
+- Formula Racing Chassis Design Project
+
+## 📫 Contact Me
+- 📧 Email: sanket.m1357@gmail.com
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
 - Deep Learning
-- Data Visualization  
+- Generative AI & LLMs
+- ML System Design
+
+---
+
+⭐ Open to opportunities in Data Science, Machine Learning, Analytics, and AI Engineering.
 <!--
 **sanketh02/sanketh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
